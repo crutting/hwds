@@ -4,7 +4,8 @@
 Intentions to publish schemas and code for standardization of queries and connection of data using open source tools such as:
 <li>MySql</li>
 <li>R</li>
-<li>Metatron</li>
+<li>Amazon S3</li>
+<li>Amazon Athena</li>
 <li>Jupyter Notebooks</li>
 <li>Python</li> 
 </br>
