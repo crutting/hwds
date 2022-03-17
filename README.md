@@ -10,8 +10,7 @@ Intentions to publish schemas and code for standardization of queries and connec
 <li>Python</li> 
 </br>
 <p>
-Need for contributions into figuring out how to hash/deidentify datasets sufficiently to allow for circumvention of HIPPA, IRB
-other data privacy concerns to allow for connection and query based on data governance access.
+
 
 National health workforce planning is currently done through minimum number sample surveys collected on paper by national 
 planning, policy, certification and licensing groups. (AAMC, NCSBN, HRSA, various other profession/education specific bodies). 
